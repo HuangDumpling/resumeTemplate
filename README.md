@@ -1,83 +1,68 @@
  <center>
-     <h1>XXX</h1>
+     <h1>黄宇康</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18162147876
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             scuthyk@126.com
          </span>
          ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
      </div>
  </center>
-------
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 基本信息
 
-*<u>如果申请的是实习岗，请在求职意向一栏中注明实习二字</u>*
+<!-- *<u>如果申请的是实习岗，请在求职意向一栏中注明实习二字</u>* -->
 
 |         项目 | 信息                          |         项目 | 信息                     |
 |-------------:|:------------------------------|-------------:|:-------------------------|
-|     **性别** | 男                            | **出生年月** | 1994                     |
-| **求职意向** | 编译/测试/架构模拟等（实习）  | **工作经验** | 0 年*<u>(校招填0年)</u>* |
-| **工作地点** | 上海/北京/成都/南京/杭州/武汉 | **学历** | 本科/硕士/博士 |
+|     **性别** | 男                            | **出生年月** | 1999.01                     |
+| **求职意向** | 编译（实习）  | **工作经验** | 0 年 |
+| **工作地点** | 上海 | **学历** | 硕士 |
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 个人履历
 
-- XXXX 工程师，**XXXX 公司**，XXXX 部门，负责 XXX，2010.1~2010.9
-- 硕士，**XXXX大学**，计算机科学与技术，2016.9~2019.7，图像分割方向<u>*（硕士/博士要写出具体的研究方向，如果是应届生，hr小姐姐会根据此项给您分配面试官）*</u>
-- 学士，**XXXX大学**，软件工程，2012.9~2016.7，绩点：5，年级前 100%<u>*（绩点及排名可不填）*</u>
+- 硕士，**华南理工大学**，集成电路工程，2021.9~2024.6，密码学方向/硬件加速器</u>
+- 学士，**合肥工业大学**，微电子科学与工程，2017.9~2021.6</u>
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-<u>*列出2-3个最能体现您水平的项目，可以与编译无关，尽量简洁，面试官通常都不喜欢长篇大论的程序员哦。*</u>
 
-- **XXXX 项目**
+- **基于Arm处理器的无线SoC设计**
 
-  **语言及框架 ：**C++、LLVM                                                                    **项目来源：**公司/个人/竞赛
+  **语言及框架 ：** Verilog HDL、Keil C、汇编                                                                     **项目来源：** 竞赛
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  使用指定射频前端模块开发，在FPGA上完成FM信号调制解调器，完成FM语音信号的解调、播放、录音，重新发送等功能。在项目中作为队长推进项目进度，完成基带信号处理IP的开发。
+  
+- **应用于组合优化问题的全连接退火伊辛机加速器**
+
+  **语言及框架 ：** Verilog HDL、Matlab                                                   **项目来源：** 科研
+
+  适用于组合优化问题的新型架构，构建高效、资源节约导向的10k-spin全数字伊辛机。独立完成并参与后续工作。
+
+- **基于环上多项式的负卷积乘法器设计**
+
+  **语言及框架 ：** Verilog HDL                                                  **项目来源：** 科研
+
+  基于整数数论变换完成硬件环上多项式乘法，适用于全同态加密方案。独立完成并参与后续模块整合。
   
 
 ## <img src="assets/award-solid.svg" width="30px"> 学术成就
 
-*<u>社招可以直接删掉这一段，程序员要啥科研成绩，当然要是投递的是科研岗的话，嘿嘿</u>*
 
-- 南京大学国家奖学金
-- 高教社杯大学生数学建模大赛二等奖
-- 省级优秀博士论文
-- 一作, **一种基于广义相对论的GPU编程模型**,软件学报,2022,CCF-B. 
-- 共同一作, **链环Alexander多项式的支配树构造算法**,nature,2022,CCF-A.
-- 英语专业八级(<u>*如果只是英语四六级就不用写了，反正有谷歌翻译*</u>)
+- 2022全国大学生集成电路创新创业大赛二等奖
+- 一作, **A Fully-Connected and Area-Efficient Ising Model Annealing Accelerator for Combinatorial Optimization Problems**,IEEE ICTA,2022. 
+- 四作, **Fully-Connected Ising Model for Combinatorial Optimization Problems**,IEEE ISCAS,2023.
+-  四作, **A Scalable Annealing Processing Architecture for Fully-Connected Ising Models**,IEEE ISCAS,2023.
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-*<u>校招请删除此项，社招请认真填写，这里一定要写自己非常熟悉的技术，hr小姐姐会根据技能清单分配具有3年以上相应开发经验的面试官，面试官会问非常深入的问题哦。</u>*
-
-★★★ llvm						★★☆ C++、Python						★★★ gem5						★★★ 编译原理
-
-★★☆ 体系结构                ★☆☆ 图形学                                    ★★☆ CUDA                        ★★★ 俄语
 
 ## <img src="assets/book-solid.svg" width="30px">主修课程
 
-*<u>社招请删除此项，校招请认真填写，大学里的基础课程要好好上哦</u>*
+<!-- *<u>社招请删除此项，校招请认真填写，大学里的基础课程要好好上哦</u>* -->
 
-★★★ 编译原理				★★☆ 体系结构                ★☆☆ 图形学                                    ★★☆ CUDA 
-
-★★★ 俄语
-
-## <img src="assets/comment-solid.svg" width="30px"> 推荐理由
-
-*<u>由猎头或者您的好哥们填写</u>*
+★★★ 数字集成电路				★★☆ 嵌入式系统				★☆☆ 体系结构                ☆☆☆ gem5                                    ★☆☆ CUDA 
